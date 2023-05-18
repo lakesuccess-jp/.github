@@ -1,4 +1,3 @@
-## Hi there 👋
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
