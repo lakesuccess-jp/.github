@@ -1,8 +1,10 @@
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <p>
+<h3 align="center">About Us</h3>
+  <p align="center">
     私たちは、株式会社 LakeSuccessで、ユーザーフレンドリーで、顧客が積極的に利用したいと考える高品質な製品の開発に日々取り組んでおります。私たちの総合的なコンサルティングサービスは、提案段階からプロジェクト管理まで、さまざまなケースと課題に効果的に対応しています。さらに、技術革新の最前線に立つために、人工知能 (AI)、法的言語モデル (LLM)、関係的攻撃と被害 (RAG) などの先駆的な技術の開発にも取り組んでおります。
   </p>
+
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
